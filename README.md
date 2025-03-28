@@ -1,9 +1,7 @@
 # CS131 A3 Genetic Algorithms
 #### Bix von Goeler
 
-_A Project for the Class CS131 Artificial Intellegence at Tufts University_
-
-A project implementing a genetic algorithm to solve the knapsack problem optimization challenge.
+A project implementing a basic genetic algorithm to solve the knapsack problem optimization challenge.
 
 ## Requirements
 - Tested using `Python 3.11`
