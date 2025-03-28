@@ -17,7 +17,9 @@ A project implementing a genetic algorithm to solve the knapsack problem optimiz
 and once complete will display the best solution found.  
 3. If matplotlib is found, a graph will display and save containing the 
 best/average fitness and the All-Possible-Pairs-Diversity of each generation.
-   [![GUI](ga_history.png)](ga_history.png)
+
+[![GUI](readme_plot.png)](readme_plot.png)
+
 4. To change the parameters of the algorithm, edit the `config.py` file and rerun the program. 
 The following parameters can be modified:
    - `POPULATION_SIZE`: Number of Individuals in each Generation (default 50)
